@@ -1,0 +1,19 @@
+{
+  "name": "recaptcha_ajax",
+  "version": "1.0.0",
+  "description": "Mirror of `http://www.google.com/recaptcha/api/js/recaptcha_ajax.js` with an extra `package.json` npm manifest to make it work with [SystemJS](https://github.com/systemjs/systemjs).",
+  "main": "recaptcha_ajax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurentgoudet/recaptcha_ajax.git"
+  },
+  "author": "Laurent Goudet <lgoudet@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurentgoudet/recaptcha_ajax/issues"
+  },
+  "homepage": "https://github.com/laurentgoudet/recaptcha_ajax#readme"
+}
