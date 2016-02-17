@@ -1,9 +1,8 @@
 {
   "name": "recaptcha_ajax",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Mirror of `http://www.google.com/recaptcha/api/js/recaptcha_ajax.js` with an extra `package.json` npm manifest to make it work with [SystemJS](https://github.com/systemjs/systemjs).",
   "format": "global",
-  "exports": "Recaptcha",
   "main": "recaptcha_ajax.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
